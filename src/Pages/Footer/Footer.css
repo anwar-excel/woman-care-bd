@@ -1,0 +1,15 @@
+
+.full{
+    background-color: rgb(63, 5, 117);
+}
+.footer{
+    
+    padding: 40px;
+ 
+    color: chartreuse;
+    margin-top: 50px ;
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    grid-gap: 20ps;
+    font-family: 'Aladin', cursive;   
+}

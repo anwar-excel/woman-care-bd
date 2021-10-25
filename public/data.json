@@ -1,0 +1,82 @@
+[
+    {
+        "id": "101",
+        "name": "Heart Disease",
+        "description": "To the surprise of many women, breast cancer is not the number one health risk they face. Heart disease, which accounts for around 27 percent of all female deaths, kills more women in the United States than all forms of cancer combined — nearly 500,000 women annually. Yet only 13 percent of Americans know how great a womens health risk heart disease really is.Luckily, there are lots of lifestyle changes you can make to ward off heart disease, such as not smoking, following a heart- smart diet, and being physically active.",
+        "img": "https://images.everydayhealth.com/images/womens-health/photogallerytopwomenshealththreats11full.jpg?w=768",
+        "doctor_name": "John Abraham",
+        "time": "9:00am-5:00pm"
+    },
+    {
+        "id": "102",
+        "name": "Cancer",
+        "description": "Cancer, the second most dangerous threat to a woman’s health, accounts for 22 percent of female deaths and kills almost 270,000 women in the United States each year. However even in this category breast cancer is not the most deadly threat. Rather, lung cancer claims the most lives each year — approximately 70,000 annually — mostly due to smoking; breast cancer is the second leading cause of cancer deaths. Fortunately, lifestyle choices can help prevent at least one-third of all cancers, so you can cut your risk by adopting healthier habits.",
+        "img": "https://images.everydayhealth.com/images/womens-health/photogallerytopwomenshealththreats02full.jpg?w=768",
+        "doctor_name": "DR.A.M Ali",
+        "time": "9:00am-5:00pm"
+    },
+    {
+        "id": "103",
+        "name": "Stroke",
+        "description": "Stroke poses a significant risk to womens health in the United States.It’s not only responsible for almost 8 percent of all female deaths, but its also the leading cause of long-term disability in the United States. And women are more often affected by this condition than men — almost 55,000 more women have strokes each year, and about 60 percent of the total number of stroke deaths happen in women. For this reason, its very important that all women learn to recognize the signs of a stroke.Call 911 immediately if you have symptoms of numbness or weakness in your face, arm, or leg — especially if it’s only on one side of your body; sudden confusion; trouble speaking or understanding; sudden difficulty seeing; dizziness or loss of balance; or an abrupt severe headache",
+        "img": "https://images.everydayhealth.com/images/womens-health/photogallerytopwomenshealththreats03full.jpg?w=768",
+        "doctor_name": "Dr.Raj ",
+        "time": "9: 00am - 5: 00pm"
+    },
+    {
+        "id": "104",
+        "name": "COPD",
+        "description": "This group of diseases, which affect the airways and lungs, makes up about 5 percent of all female deaths. Chronic obstructive pulmonary disease (COPD), mostly caused by smoking, is the most common of these conditions and involves bronchitis and emphysema. In 2000, for the first time, more women than men died of COPD, and it is now estimated that 64,000 women die from the condition annually. COPD is a serious threat to women’s health that also diminishes quality of life by causing shortness of breath and limiting a person s ability to stay active.",
+        "img": "https://images.everydayhealth.com/images/womens-health/photogallerytopwomenshealththreats04full.jpg?w=768",
+        "doctor_name": "Dr. MD. Ali Hossen",
+        "time": "9:00am-5:00pm"
+    },
+    {
+        "id": "105",
+        "name": "Alzheimers Disease",
+        "description": "Alzheimer s disease, a progressive, degenerative brain disorder, is responsible for about 4 percent of all female deaths in the United States each year.More than half of the 4.5 million Americans living with this condition are women, and more women die from the disease than men.Although Alzheimer s starts with simple forgetfulness and confusion, it can eventually lead to irreversible mental impairment. If you think you or someone else you know may have Alzheimer s disease, be sure to get a complete medical work- up to rule out other causes of dementia.",
+        "img": "https://images.everydayhealth.com/images/womens-health/photogallerytopwomenshealththreats05full.jpg?w=768",
+        "doctor_name": "Dr. Tarek Hosen",
+        "time": "9:00am-5:00pm"
+    },
+    {
+        "id": "106",
+        "name": "Unintentional Injuries",
+        "description": "Accidents — car collisions, falls, and poisonings, to name a few — account for about 3 percent of all female deaths in the United States each year — more than 37,000 women. In a recent study, one-third of these accidents were found to be traffic-related, while another 7,800 women lose their lives annually from falls. Using common-sense precautions can help you to avoid many types of accidents, such as wearing a seatbelt every time you’re in a car, placing carbon monoxide detectors in your home, clearly labeling items that contain toxic substances, and taking steps to avoid slippery surfaces, such as using a non-slip mat in the tub.",
+        "img": "https://images.everydayhealth.com/images/womens-health/photogallerytopwomenshealththreats06full.jpg?w=768",
+        "doctor_name": "Dr. FF Kazi",
+        "time": "9:00am-5:00pm"
+    },
+    {
+        "id": "107",
+        "name": "Diabetes",
+        "description": "Responsible for around 3 percent of all female deaths in the United States, diabetes is a serious women’s health issue, and a condition that affects almost 26 million Americans. Some 12.6 million of those are women aged 20 years or older — but almost one-quarter of them haven’t yet been diagnosed. Women of color are at highest risk for the condition. Type 2 diabetes is the most common form of the disease, but the good news is that it is preventable. To reduce your risk, be sure to maintain a healthy lifestyle and a healthy weight, exercise, and have your fasting blood sugar levels checked regularly to allow for early diagnosis.",
+        "img": "https://images.everydayhealth.com/images/womens-health/photogallerytopwomenshealththreats07full.jpg?w=768",
+        "doctor_name": "Dr. Aminul Islam",
+        "time": "9:00am-5:00pm"
+    },
+    {
+        "id": "108",
+        "name": "Influenza and Pneumonia",
+        "description": "Combined, pneumonia and influenza account for just under 3 percent of all American female deaths. Influenza, commonly called the flu, is a contagious lung disease caused by a virus, while pneumonia is an infection of the lung, with bacterial pneumonia being the most deadly type. Vaccines may be your best bet to reduce the risk of both conditions. Yearly flu shots can be up to 90 percent effective in preventing influenza in healthy adults, and the pneumococcal vaccine can lower your chances of getting pneumonia by more than half.",
+        "img": "https://images.everydayhealth.com/images/womens-health/photogallerytopwomenshealththreats08full.jpg?w=768",
+        "doctor_name": "Dr. A.Salam khan",
+        "time": "9:00am-5:00pm"
+    },
+    {
+        "id": "109",
+        "name": "Kidney Disease",
+        "description": "This disease, in which the kidneys stop doing their job and allow waste to build up in the blood, accounts for almost 2 percent of all female deaths in the United States. Many factors can contribute to the development of kidney disease, but diabetes, high blood pressure, heart disease, and a family history of kidney failure are your greatest risks. If you have diabetes or high blood pressure, follow your doctor s treatment suggestions closely to minimize your risk.Unfortunately, early kidney disease has no symptoms, but blood and urine tests can diagnose the condition.",
+        "img": "https://images.everydayhealth.com/images/womens-health/photogallerytopwomenshealththreats09full.jpg?w=768",
+        "doctor_name": "Dr. Aklima khatun",
+        "time": "9:00am-5:00pm"
+    },
+    {
+        "id": "110",
+        "name": "Blood Poisoning",
+        "description": "Also known as septicemia, blood poisoning is a risk to women’s health that is responsible for the deaths of 1.5 percent of all U.S. females. This life-threatening condition occurs when the blood is infected with bacteria or other toxins that commonly come from infections in the lung, urinary tract, abdomen, or pelvis. The condition can begin with spiking fevers, chills, rapid breathing, a change in mental status, and rapid heart rate, and the person often quickly becomes very ill. The symptoms of blood poisoning can swiftly progress to shock, which has a high death rate; if you or a loved one has any of the warning signs, get to a hospital immediately.",
+        "img": "https://images.everydayhealth.com/images/womens-health/photogallerytopwomenshealththreats10full.jpg?w=768",
+        "doctor_name": "Dr. Halima Sadia",
+        "time": "9:00am-5:00pm"
+    }
+]

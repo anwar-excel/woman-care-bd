@@ -1,0 +1,50 @@
+[
+    {
+        "id": "1",
+        "name": "Anderson",
+        "study": "Harvard University.",
+        "degree": "Doctor of Medicine (M.D.) ",
+        "age": "56",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4SNzNa88qpWYhX570yugEuhzEw0znF3mM4w&usqp=CAU"
+    },
+    {
+        "id": "2",
+        "name": "Beckett",
+        "study": "New York University (Grossman)",
+        "degree": "Master’s Degree in Medical Sciences",
+        "age": "55",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQloLZGhr4VgbdujJSyQZ36gglPRATPdTiCg&usqp=CAU"
+    },
+    {
+        "id": "3",
+        "name": "Olivia",
+        "study": "Duke University.",
+        "degree": "Doctor of Medicine (M.D.) ",
+        "age": "66",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbOrmxclFArA7zFAi10pXMLIWfjEq0jhwVvw&usqp=CAU"
+    },
+    {
+        "id": "4",
+        "name": "Emma",
+        "study": "Columbia University.",
+        "degree": "Master’s Degree in Medical Sciences",
+        "age": "66",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSa-_Er8Pv7C-oYUAT2RnfaMPwhwk_kmC5IzA&usqp=CAU"
+    },
+    {
+        "id": "5",
+        "name": "Charlotte",
+        "study": "Stanford University.",
+        "degree": "Doctor of Medicine (M.D.) ",
+        "age": "70",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTv9hkYMndZI5DEa9YkhVoudS1v_VNXh33aNA&usqp=CAU"
+    },
+    {
+        "id": "6",
+        "name": "Sophia",
+        "study": "University of California--San Francisco",
+        "degree": "Doctor of Medicine (M.D.) ",
+        "age": "46",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIePdXMX480Ia51dA6DoOIjs6-SrG__MnBzQ&usqp=CAU"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "id": "101",
+        "name": "Heart Disease",
+        "description": "To the surprise of many women, breast cancer is not the number one health risk they face. Heart disease, which accounts for around 27 percent of all female deaths, kills more women in the United States than all forms of cancer combined — nearly 500,000 women annually. Yet only 13 percent of Americans know how great a womens health risk heart disease really is.Luckily, there are lots of lifestyle changes you can make to ward off heart disease, such as not smoking, following a heart- smart diet, and being physically active.",
+        "img": "https://images.everydayhealth.com/images/womens-health/photogallerytopwomenshealththreats11full.jpg?w=768",
+        "doctor_name": "John Abraham",
+        "time": "9:00am-5:00pm"
+    },
+    {
+        "id": "102",
+        "name": "Cancer",
+        "description": "Cancer, the second most dangerous threat to a woman’s health, accounts for 22 percent of female deaths and kills almost 270,000 women in the United States each year. However even in this category breast cancer is not the most deadly threat. Rather, lung cancer claims the most lives each year — approximately 70,000 annually — mostly due to smoking; breast cancer is the second leading cause of cancer deaths. Fortunately, lifestyle choices can help prevent at least one-third of all cancers, so you can cut your risk by adopting healthier habits.",
+        "img": "https://images.everydayhealth.com/images/womens-health/photogallerytopwomenshealththreats02full.jpg?w=768",
+        "doctor_name": "DR.A.M Ali",
+        "time": "9:00am-5:00pm"
+    },
+    {
+        "id": "103",
+        "name": "Stroke",
+        "description": "Stroke poses a significant risk to womens health in the United States.It’s not only responsible for almost 8 percent of all female deaths, but its also the leading cause of long-term disability in the United States. And women are more often affected by this condition than men — almost 55,000 more women have strokes each year, and about 60 percent of the total number of stroke deaths happen in women. For this reason, its very important that all women learn to recognize the signs of a stroke.Call 911 immediately if you have symptoms of numbness or weakness in your face, arm, or leg — especially if it’s only on one side of your body; sudden confusion; trouble speaking or understanding; sudden difficulty seeing; dizziness or loss of balance; or an abrupt severe headache",
+        "img": "https://images.everydayhealth.com/images/womens-health/photogallerytopwomenshealththreats03full.jpg?w=768",
+        "doctor_name": "Dr.Raj ",
+        "time": "9: 00am - 5: 00pm"
+    }
+]

@@ -1,0 +1,10 @@
+.diease{
+    margin-top: 50px;
+    margin-left: 5%;
+    margin-right: 5%;
+    text-align: center;
+    
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    grid-gap: 20px;
+}
